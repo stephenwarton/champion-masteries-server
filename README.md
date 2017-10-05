@@ -1,6 +1,6 @@
 # Champion Masteries
 
-A simple web app to check your champion mastery stats. Only implemented for the NA server for now. This is the repo for the backend/server. The frontend/client repo can be found here: [champion-masteries-client](https://github.com/stephenwarton/champion-masteries-client)
+A simple web app to check your champion mastery stats. Only implemented for the NA server for now. This is the repo for the backend/server. The frontend/client repo can be found here: [champion-masteries-client](https://github.com/stephenwarton/champion-masteries-client).
 
 ## Getting Started
 
@@ -18,6 +18,9 @@ To run the server:
 ```
 npm start
 ```
+You should be good to go now for the server. To get the client set up go here: [champion-masteries-client](https://github.com/stephenwarton/champion-masteries-client).
+
+Note: The server is set up to run on port 3000. If you need to change the port, edit this line: [link](https://github.com/stephenwarton/champion-masteries-server/blob/master/bin/www#L15)
 
 ## Built With
 
