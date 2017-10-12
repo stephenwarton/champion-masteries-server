@@ -1554,7 +1554,7 @@ let data = `{
                 "defense": 2,
                 "magic": 7
             },
-            "title": "the Widowmaker",
+            "title": "Agony's Embrace",
             "id": 28,
             "key": "Evelynn",
             "name": "Evelynn"
@@ -1656,7 +1656,7 @@ let data = `{
             "name": "Ezreal"
         }
     }`;
-    
+
     let championData = JSON.parse(data);
 
     let champions = {};
