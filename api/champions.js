@@ -1,4 +1,4 @@
-//"version": "8.13.1"
+//"version": "8.17.1"
 let data = `{
   "MonkeyKing": {
             "title": "the Monkey King",
@@ -163,10 +163,10 @@ let data = `{
             "name": "Jayce"
         },
         "Nunu": {
-            "title": "the Yeti Rider",
+            "title": "the Boy and His Yeti",
             "id": 20,
             "key": "Nunu",
-            "name": "Nunu"
+            "name": "Nunu & Willump""
         },
         "Trundle": {
             "title": "the Troll King",
@@ -355,7 +355,7 @@ let data = `{
             "name": "Annie"
         },
         "Akali": {
-            "title": "the Fist of Shadow",
+            "title": "the Rogue Assassin",
             "id": 84,
             "key": "Akali",
             "name": "Akali"
