@@ -166,7 +166,7 @@ let data = `{
             "title": "the Boy and His Yeti",
             "id": 20,
             "key": "Nunu",
-            "name": "Nunu & Willump""
+            "name": "Nunu & Willump"
         },
         "Trundle": {
             "title": "the Troll King",
